@@ -1,0 +1,46 @@
+.floristlorem {
+  display: flex;
+  padding-top: 75px;
+  padding-bottom: 135px;
+  justify-content: center;
+}
+
+.floristtext {
+  padding-right: 50px;
+  width: 400px;
+  text-align: left;
+  font-size: 1rem;
+
+  h2 {
+    color: #0c5b47;
+    font-size: 46px;
+    padding-bottom: 16px;
+    font-weight: 100;
+  }
+
+  p {
+    padding-bottom: 20px;
+    font-weight: 400;
+    color: #0c5b47;
+  }
+  .p2 {
+    font-family: "Crimson Text", serif;
+    font-style: italic;
+    color: #1b745e;
+  }
+}
+.floristimg {
+  .img1 {
+    position: relative;
+    width: 249px;
+    height: 400px;
+    left: 13rem;
+    bottom: 3rem;
+  }
+  .img2 {
+    position: relative;
+    width: 249px;
+    height: 400px;
+    right: 170px;
+  }
+}

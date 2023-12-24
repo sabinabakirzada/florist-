@@ -1,0 +1,22 @@
+.swiper-slider {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1.5rem;
+  
+  &:nth-child(1) {
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl1-967x725.jpg");
+  }
+  &:nth-child(2) {
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl7.jpg");
+  }
+  &:nth-child(2) {
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl4.jpg");
+  }
+}

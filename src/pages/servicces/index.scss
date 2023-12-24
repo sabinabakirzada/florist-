@@ -1,0 +1,83 @@
+.services {
+  background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/background2.jpg");
+
+  h5 {
+    font-size: 22px;
+    color: #1b745e;
+    padding: 60px 0 25px 0;
+    font-weight: 100;
+    font-style: italic;
+  }
+
+  p {
+    font-size: 46px;
+    padding-bottom: 50px;
+    color: #0c5b47;
+    width: 65rem;
+    font-weight: 100;
+    margin: auto;
+  }
+}
+.cards {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  padding-bottom: 10rem;
+  .card {
+    width: 310px;
+    height: 350px;
+  }
+
+  .cardimg {
+    width: 310px;
+    height: 330px;
+  }
+  .cardtext {
+    padding-top: 25px;
+    padding-bottom: 35px;
+    padding: 25px 0 35px 25px;
+    background-color: white;
+    text-align: left;
+  }
+}
+
+.ourmission {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .ourtext {
+    width: 534px;
+    height: 534px;
+    background-color: #1b745e;
+    color: white;
+
+    h3 {
+      font-size: 46px;
+      padding-bottom: 10px;
+      padding-top: 10rem;
+    }
+    p {
+      font-size: 16px;
+      text-align: left;
+      width: 300px;
+      padding-left: 17px;
+      color: white;
+      padding-bottom: 20px;
+    }
+    button {
+      font-size: 16px;
+      color: #10634e;
+      padding: 9px 37px;
+      background-color: #d8e3d5;
+      border: none;
+      margin-right: 115px;
+    }
+  }
+}
+
+.ourimg {
+  img {
+    height: 534px;
+    width: 534px;
+  }
+}
